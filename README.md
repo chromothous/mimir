@@ -16,3 +16,5 @@ Mimir is a lightweight, user-friendly Python application that securely encrypts 
 ---
 
 Just download for the zip. Feel free to reach out to me at nrda1991@gmail.com
+
+https://sourceforge.net/projects/mimir-v0-8/
